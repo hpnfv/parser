@@ -12,8 +12,6 @@ The folder structure and corresponding description is as follows:
 		LINCESE
 		
 
-hpnfv : Master repository consisting of all the opnfv related content.
-
 parser : Parser will help to provide tooling mechanism to convert YANG to TOSCA.
 
 converter : This folder consists of the modules/classes for the conversion of "YANG to XML" and "XML to TOSCA"
